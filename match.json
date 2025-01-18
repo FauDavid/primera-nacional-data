@@ -8,7 +8,7 @@
       "datetime": "2025-02-08T17:00:00"
     },
     {
-      "versus": "Güemes",
+      "versus": "Güemes (SDE)",
       "isAway": true,
       "id_promiedos": "club-atletico-guemes/cijej",
       "id_escudoteca": "guemes",
@@ -27,7 +27,7 @@
       "id_escudoteca": "tristansuarez"
     },
     {
-      "versus": "Gimnasia y Tiro",
+      "versus": "Gimnasia y Tiro (S)",
       "isAway": false,
       "id_promiedos": "gimnasia-y-tiro/jchi",
       "id_escudoteca": "gimnasia_y_tiro"
@@ -75,7 +75,7 @@
       "id_escudoteca": "atlanta"
     },
     {
-      "versus": "Racing de Córdoba",
+      "versus": "Racing (C)",
       "isAway": false,
       "id_promiedos": "racing-cordoba/jcih",
       "id_escudoteca": "racing_cordoba"
