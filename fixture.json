@@ -60,13 +60,23 @@
       "versus": "Deportivo Maipú",
       "isAway": true,
       "id_promiedos": "deportivo-maipu/jcid",
-      "id_escudoteca": "depmaipu"
+      "id_escudoteca": "depmaipu",
+      "datetime": "2025-03-16T17:30:00",
+      "link": "https://www.promiedos.com.ar/game/deportivo-maipu-vs-patronato/edceebj",
+      "streaming": "",
+      "result": "",
+      "youtube": ""
     },
     {
       "versus": "Deportivo Madryn",
       "isAway": false,
       "id_promiedos": "dep.-madryn/bbjbh",
-      "id_escudoteca": "deportivo_madryn"
+      "id_escudoteca": "deportivo_madryn",
+      "datetime": "2025-03-23T19:00:00",
+      "link": "https://www.promiedos.com.ar/game/patronato-vs-dep.-madryn/edceeae",
+      "boleteria": "",
+      "result": "",
+      "youtube": ""
     },
     {
       "versus": "Alvarado",
