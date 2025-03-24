@@ -75,20 +75,30 @@
       "datetime": "2025-03-23T18:00:00",
       "link": "https://www.promiedos.com.ar/game/patronato-vs-dep.-madryn/edceeae",
       "boleteria": "https://www.boleteriavip.com.ar/event/description/985/patronato-vs--dep--madryn",
-      "result": "",
-      "youtube": ""
+      "result": "0-0 (D)",
+      "youtube": "https://www.youtube.com/watch?v=lWme1rVDLnU&pp=ygUaUGF0cm9uYXRvIGRlcG9ydGl2byBtYWRyeW4%3D"
     },
     {
       "versus": "Alvarado",
       "isAway": true,
       "id_promiedos": "alvarado/badei",
-      "id_escudoteca": "alvarado"
+      "id_escudoteca": "alvarado",
+      "datetime": "2025-03-30T16:00:00",
+      "link": "https://www.promiedos.com.ar/game/alvarado-vs-patronato/edcedie",
+      "boleteria": "",
+      "result": "",
+      "youtube": ""
     },
     {
       "versus": "All Boys",
       "isAway": false,
       "id_promiedos": "all-boys/hhij",
       "id_escudoteca": "allboys"
+      "datetime": "2025-04-07T20:30:00",
+      "link": "https://www.promiedos.com.ar/game/patronato-vs-all-boys/edcedgh",
+      "boleteria": "",
+      "result": "",
+      "youtube": ""
     },
     {
       "versus": "Arsenal",
