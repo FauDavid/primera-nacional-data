@@ -187,11 +187,22 @@
       "isAway": false,
       "id_promiedos": "ferro-carril-oeste/hcbi",
       "id_escudoteca": "ferro",
-      "datetime": "",
+      "datetime": "2025-06-01T16:00:00",
       "link": "https://www.promiedos.com.ar/game/patronato-vs-ferro-carril-oeste/edcecbj",
       "boleteria": "",
       "result": "",
       "youtube": ""
-    }
+    },
+    {
+      "versus": "Los Andes",
+      "isAway": false,
+      "id_promiedos": "los-andes/hbai",
+      "id_escudoteca": "los_andes",
+      "datetime": "2025-06-15T16:00:00",
+      "streaming": "",
+      "link": "https://www.promiedos.com.ar/game/patronato-vs-los-andes/edffgbe",
+      "youtube": "",
+      "result": ""
+    },
   ]
 }
