@@ -226,6 +226,160 @@
       "boleteria": "",
       "result": "",
       "youtube": ""
-    }
+    },
+  {
+    "versus": "Tristán Suárez",
+    "isAway": false,
+    "id_promiedos": "tristan-suarez/hbbd",
+    "id_escudoteca": "tristansuarez",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Gimnasia y Tiro (S)",
+    "isAway": true,
+    "id_promiedos": "gimnasia-y-tiro/jchi",
+    "id_escudoteca": "gimnasia_y_tiro",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Deportivo Maipú",
+    "isAway": false,
+    "id_promiedos": "deportivo-maipu/jcid",
+    "id_escudoteca": "depmaipu",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Deportivo Madryn",
+    "isAway": true,
+    "id_promiedos": "dep.-madryn/bbjbh",
+    "id_escudoteca": "deportivo_madryn",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Alvarado",
+    "isAway": false,
+    "id_promiedos": "alvarado/badei",
+    "id_escudoteca": "alvarado",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "All Boys",
+    "isAway": true,
+    "id_promiedos": "all-boys/hhij",
+    "id_escudoteca": "allboys",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Arsenal",
+    "isAway": false,
+    "id_promiedos": "arsenal-sarandi/fjbd",
+    "id_escudoteca": "arsenal",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Colegiales",
+    "isAway": true,
+    "id_promiedos": "colegiales/hbaf",
+    "id_escudoteca": "colegiales",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Atlanta",
+    "isAway": false,
+    "id_promiedos": "atlanta/hbae",
+    "id_escudoteca": "atlanta",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Racing (C)",
+    "isAway": true,
+    "id_promiedos": "racing-cordoba/jcih",
+    "id_escudoteca": "racing_cordoba",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Quilmes",
+    "isAway": false,
+    "id_promiedos": "quilmes/hccf",
+    "id_escudoteca": "quilmes",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "San Miguel",
+    "isAway": true,
+    "id_promiedos": "ca-san-miguel/bbiji",
+    "id_escudoteca": "sanmiguel",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Almagro",
+    "isAway": false,
+    "id_promiedos": "almagro/hbag",
+    "id_escudoteca": "almagro",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  },
+  {
+    "versus": "Ferro Carril Oeste",
+    "isAway": false,
+    "id_promiedos": "ferro-carril-oeste/hcbi",
+    "id_escudoteca": "ferro",
+    "datetime": "",
+    "link": "",
+    "boleteria": "",
+    "result": "",
+    "youtube": ""
+  }
   ]
 }
