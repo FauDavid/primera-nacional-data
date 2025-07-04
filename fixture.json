@@ -225,7 +225,7 @@
       "streaming": "https://play.tycsports.com/primera-nacional/san-martin-t-vs-patronato-id669527.html",
       "boleteria": "",
       "result": "0-1 (W)",
-      "youtube": ""
+      "youtube": "https://www.youtube.com/watch?v=TKnO7DBTiIY"
     },
   {
     "versus": "Tristán Suárez",
@@ -234,7 +234,7 @@
     "id_escudoteca": "tristansuarez",
     "datetime": "2025-07-06T15:30:00",
     "link": "",
-    "boleteria": "",
+    "boleteria": "https://www.boleteriavip.com.ar/event/description/1038/patronato-vs-tristan-suarez",
     "result": "",
     "youtube": ""
   },
