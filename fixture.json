@@ -313,7 +313,7 @@
     "isAway": true,
     "id_promiedos": "colegiales/hbaf",
     "id_escudoteca": "colegiales",
-    "datetime": "",
+    "datetime": "2025-08-24T13:00:00",
     "link": "",
     "boleteria": "",
     "result": "",
@@ -387,5 +387,6 @@
   }
   ]
 }
+
 
 
