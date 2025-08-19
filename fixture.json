@@ -294,7 +294,7 @@
     "datetime": "2025-08-11T19:30:00",
     "link": "",
     "boleteria": "",
-    "result": "0-1",
+    "result": "0-1 (L)",
     "youtube": "https://www.youtube.com/watch?v=RpGl9YIIQpc&t=127s"
   },
   {
@@ -305,7 +305,7 @@
     "datetime": "2025-08-17T16:00:00",
     "link": "",
     "boleteria": "",
-    "result": "1-0",
+    "result": "1-0 (W)",
     "youtube": "https://www.youtube.com/watch?v=wyuvaRw8mwE"
   },
   {
@@ -387,6 +387,7 @@
   }
   ]
 }
+
 
 
 
