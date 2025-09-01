@@ -316,8 +316,8 @@
     "datetime": "2025-08-24T13:00:00",
     "link": "https://www.promiedos.com.ar/game/colegiales-vs-patronato/edceace",
     "boleteria": "",
-    "result": "",
-    "youtube": "",
+    "result": "0-0",
+    "youtube": "https://www.youtube.com/watch?v=8cEFfZKDRng",
     "streaming": "https://play.tycsports.com/primera-nacional/colegiales-vs-patronato-id680768.html"
   },
   {
@@ -328,8 +328,8 @@
     "datetime": "2025-08-31T16:00:00",
     "link": "",
     "boleteria": "",
-    "result": "",
-    "youtube": ""
+    "result": "0-0",
+    "youtube": "https://www.youtube.com/watch?v=D98sL6_7FgU"
   },
   {
     "versus": "Racing (C)",
@@ -388,6 +388,7 @@
   }
   ]
 }
+
 
 
 
