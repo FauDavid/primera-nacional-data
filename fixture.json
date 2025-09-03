@@ -337,7 +337,7 @@
     "id_promiedos": "racing-cordoba/jcih",
     "id_escudoteca": "racing_cordoba",
     "datetime": "2025-09-07T18:00:00",
-    "link": "",
+    "link": "https://www.promiedos.com.ar/game/racing-cordoba-vs-patronato/edcdjih",
     "boleteria": "",
     "result": "",
     "youtube": ""
@@ -348,7 +348,7 @@
     "id_promiedos": "quilmes/hccf",
     "id_escudoteca": "quilmes",
     "datetime": "2025-09-14T16:00:00",
-    "link": "",
+    "link": "https://www.promiedos.com.ar/game/patronato-vs-quilmes/edcdjhd",
     "boleteria": "",
     "result": "",
     "youtube": ""
@@ -358,8 +358,8 @@
     "isAway": true,
     "id_promiedos": "ca-san-miguel/bbiji",
     "id_escudoteca": "sanmiguel",
-    "datetime": "",
-    "link": "",
+    "datetime": "2025-09-20T15:30:00",
+    "link": "https://www.promiedos.com.ar/game/ca-san-miguel-vs-patronato/edcdjfa",
     "boleteria": "",
     "result": "",
     "youtube": ""
@@ -370,7 +370,7 @@
     "id_promiedos": "almagro/hbag",
     "id_escudoteca": "almagro",
     "datetime": "",
-    "link": "",
+    "link": "https://www.promiedos.com.ar/game/patronato-vs-almagro/edcdjdh",
     "boleteria": "",
     "result": "",
     "youtube": ""
@@ -381,13 +381,14 @@
     "id_promiedos": "ferro-carril-oeste/hcbi",
     "id_escudoteca": "ferro",
     "datetime": "",
-    "link": "",
+    "link": "https://www.promiedos.com.ar/game/ferro-carril-oeste-vs-patronato/edcdjbd",
     "boleteria": "",
     "result": "",
     "youtube": ""
   }
   ]
 }
+
 
 
 
