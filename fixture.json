@@ -316,7 +316,7 @@
     "datetime": "2025-08-24T13:00:00",
     "link": "https://www.promiedos.com.ar/game/colegiales-vs-patronato/edceace",
     "boleteria": "",
-    "result": "0-0",
+    "result": "0-0 (D)",
     "youtube": "https://www.youtube.com/watch?v=8cEFfZKDRng",
     "streaming": "https://play.tycsports.com/primera-nacional/colegiales-vs-patronato-id680768.html"
   },
@@ -328,7 +328,7 @@
     "datetime": "2025-08-31T16:00:00",
     "link": "",
     "boleteria": "",
-    "result": "0-0",
+    "result": "0-0 (D)",
     "youtube": "https://www.youtube.com/watch?v=D98sL6_7FgU"
   },
   {
@@ -339,8 +339,8 @@
     "datetime": "2025-09-07T18:00:00",
     "link": "https://www.promiedos.com.ar/game/racing-cordoba-vs-patronato/edcdjih",
     "boleteria": "",
-    "result": "",
-    "youtube": "",
+    "result": "1-0 (L)",
+    "youtube": "https://www.youtube.com/watch?v=MhS8B_fMBqg",
     "streaming": "https://play.tycsports.com/primera-nacional/racing-c-vs-patronato-id683483.html"
   },
   {
@@ -389,6 +389,7 @@
   }
   ]
 }
+
 
 
 
