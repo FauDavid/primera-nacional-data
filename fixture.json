@@ -375,12 +375,12 @@
     "datetime": "2025-09-28T15:30:00",
     "link": "https://www.promiedos.com.ar/game/patronato-vs-almagro/edcdjdh",
     "boleteria": "https://www.boleteriavip.com.ar/event/description/1087/patronato-vs--almagro",
-    "result": "",
+    "result": "0-0",
     "youtube": ""
   },
   {
     "versus": "Ferro Carril Oeste",
-    "isAway": false,
+    "isAway": true,
     "id_promiedos": "ferro-carril-oeste/hcbi",
     "id_escudoteca": "ferro",
     "datetime": "2025-10-04T15:30:00",
