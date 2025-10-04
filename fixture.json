@@ -376,7 +376,7 @@
     "link": "https://www.promiedos.com.ar/game/patronato-vs-almagro/edcdjdh",
     "boleteria": "https://www.boleteriavip.com.ar/event/description/1087/patronato-vs--almagro",
     "result": "0-0",
-    "youtube": ""
+    "youtube": "https://www.youtube.com/watch?v=7m68cmFqbao"
   },
   {
     "versus": "Ferro Carril Oeste",
@@ -387,10 +387,12 @@
     "link": "https://www.promiedos.com.ar/game/ferro-carril-oeste-vs-patronato/edcdjbd",
     "boleteria": "",
     "result": "",
-    "youtube": ""
+    "youtube": "",
+    "streaming": "https://play.tycsports.com/primera-nacional/ferro-vs-patronato-id689592.html"
   }
   ]
 }
+
 
 
 
