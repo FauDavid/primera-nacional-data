@@ -389,9 +389,22 @@
     "result": "",
     "youtube": "",
     "streaming": "https://play.tycsports.com/primera-nacional/ferro-vs-patronato-id689592.html"
+  },
+      {
+    "versus": "Estudiantes RC",
+    "isAway": true,
+    "id_promiedos": "estudiantes-rio-cuarto/bheaf",
+    "id_escudoteca": "estudiantesrc",
+    "datetime": "2025-10-12T19:10:00",
+    "link": "https://www.promiedos.com.ar/game/estudiantes-rio-cuarto-vs-patronato/efiighf",
+    "boleteria": "",
+    "result": "",
+    "youtube": "",
+    "streaming": "
   }
   ]
 }
+
 
 
 
